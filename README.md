@@ -4,3 +4,5 @@ Face landmark recognition using PyTorch is used in computer vision and image pro
 ## Tools 🛠 
 - Python
 - Jupyter noteboook
+- Pandas
+- Torch
