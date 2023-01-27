@@ -14,3 +14,9 @@ Face landmark recognition using PyTorch is used in computer vision and image pro
 
 ## Sample image 🏞
 ![Sample image](https://imgur.com/1BOnGlU)
+
+
+
+> **Note:** I wrote an **article ** explaining how i built the project on [Heartbeat](https://heartbeat.comet.ml/).
+
+Enjoy 😊 
