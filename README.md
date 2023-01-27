@@ -12,11 +12,24 @@ Face landmark recognition using PyTorch is used in computer vision and image pro
 - Scikit learn 
 - Comet
 
+## Comet
+```python
+experiment = comet_ml.Experiment(
+    api_key="",
+    project_name="face-landmarks-recognition", 
+    workspace="",
+    log_code=True)
+    
+experiment.end()
+```
+
 ## Sample image 🏞
 ![Sample image](https://imgur.com/1BOnGlU)
 
 
 
-> **Note:** I wrote an **article ** explaining how i built the project on [Heartbeat](https://heartbeat.comet.ml/).
+> **Note:** I wrote an **article** explaining how i built the project on [Heartbeat](https://heartbeat.comet.ml/).
+
+
 
 Enjoy 😊 
