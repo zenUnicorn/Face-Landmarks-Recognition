@@ -12,3 +12,4 @@ Face landmark recognition using PyTorch is used in computer vision and image pro
 - Scikit learn 
 - Comet
 
+## Sample image 🏞
